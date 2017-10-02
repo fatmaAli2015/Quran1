@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quran1</string>
+    <string-array name="index">
+        <item>سوره يس</item>
+        <item> سوره الرحمن</item>
+        <item> سوره الصف</item>
+        <item> سوره هود</item>
+        <item>سورة الكهف</item>
+        <item>سورة يوسف</item>
+    </string-array>
+</resources>
